@@ -4,6 +4,7 @@
 DOMAIN-SUFFIX,qichiyu.com
 DOMAIN-SUFFIX,438046438.xyz
 
+
 # 域名关键字匹配
 DOMAIN-KEYWORD,1e100
 
@@ -12,7 +13,6 @@ IP-CIDR,142.171.133.131/32,no-resolve
 IP-CIDR,103.115.43.2/32,no-resolve
 
 # 国外DNS
-DOMAIN-SUFFIX,438046438.xyz
 DOMAIN-SUFFIX,dns.google
 DOMAIN-SUFFIX,1dot1dot1dot1.cloudflare-dns.com
 DOMAIN-SUFFIX,dot.sb
@@ -31,3 +31,6 @@ IP-CIDR,1.0.0.1/32,no-resolve
 IP-CIDR,185.222.222.222/32,no-resolve
 IP-CIDR,208.67.222.222/32,no-resolve
 IP-CIDR,208.67.220.220/32,no-resolve
+
+
+DOMAIN-KEYWORD,remote
