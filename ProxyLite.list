@@ -24,8 +24,6 @@ DOMAIN-SUFFIX,doh.dns.sb
 DOMAIN-SUFFIX,doh.opendns.com
 DOMAIN-SUFFIX,dns.quad9.net
 DOMAIN-SUFFIX,hk-hkg.doh.sb
-DOMAIN-SUFFIX,onlyfans
-DOMAIN-SUFFIX,z2u
 IP-CIDR,8.8.8.8/32,no-resolve
 IP-CIDR,8.8.4.4/32,no-resolve
 IP-CIDR,1.1.1.1/32,no-resolve
@@ -46,3 +44,5 @@ DOMAIN-KEYWORD,cypress
 DOMAIN-KEYWORD,prosemirror.net
 DOMAIN-KEYWORD,730894.xyz
 DOMAIN-KEYWORD,cambly.com
+DOMAIN-KEYWORD,onlyfans
+DOMAIN-KEYWORD,z2u
