@@ -38,6 +38,7 @@ DOMAIN-SUFFIX,state.gov
 DOMAIN-SUFFIX,react.dev
 DOMAIN-SUFFIX,mui.com
 DOMAIN-SUFFIX,expo.dev
+DOMAIN-SUFFIX,tailwindcss.com
 DOMAIN-SUFFIX,reactnative.dev
 DOMAIN-SUFFIX,speech.platform.bing.com
 IP-CIDR,8.8.8.8/32,no-resolve
